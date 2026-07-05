@@ -1,0 +1,5 @@
+﻿backend/__pycache__/
+*.pyc
+backend/storageiq.db
+backend/uploaded_files/
+frontend/node_modules/
