@@ -1,0 +1,37 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1009 >>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(CURRICULUM VITAE\nName: Alex Morgan\nEmail: alex.morgan@email.com | Phone: +1 (555) 234-5678\nLinkedIn: linkedin.com/in/alexmorgan | GitHub: github.com/alexmorgan\n\nPROFESSIONAL SUMMARY\nExperienced software engineer with 6+ years in full-stack development,\nspecializing in Python, React, and cloud infrastructure. Proven track record\nof delivering scalable systems and leading cross-functional teams.\n\nEXPERIENCE\nSenior Software Engineer | TechCorp Inc. | 2021 - Present\n  - Led migration of monolithic application to microservices (reduced latency 40%)\n  - Architected real-time data pipeline handling 2M events/day\n  - Mentored team of 4 junior engineers\n\nSoftware Engineer | DataSoft LLC | 2018 - 2021\n  - Built REST APIs serving 500K daily active users\n  - Implemented automated testing (coverage 87%)\n\nEDUCATION\nB.Sc. Computer Science | State University | 2018\n\nSKILLS\nPython, JavaScript, TypeScript, React, FastAPI, PostgreSQL, Docker, Kubernetes, AWS) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001302 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1399
+%%EOF
