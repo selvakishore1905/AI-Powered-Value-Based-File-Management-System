@@ -1,4 +1,4 @@
-# StorageIQ
+# AI-Powered-Value-Based-File-Management-System (StorageIQ)
 
 **StorageIQ** is an AI-powered file management and deduplication tool. Upload a folder of files, and it automatically detects exact duplicates, near-duplicate documents, similar images, scores every file by value, and gives cleanup recommendations — all in a single local dashboard.
 
